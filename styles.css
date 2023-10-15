@@ -131,9 +131,9 @@ footer {
 }
 
 
-@media (min-width: 576px){
+@media (min-width: 690px){
     #card {
-        width: 550px;
+        width: 650px;
         height: 400px;
     }    
 
